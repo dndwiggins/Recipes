@@ -1,0 +1,2 @@
+Hello this is an introductory project using purely HTML. The goal of this project is to help build the very basic foundations.
+This project is partially guided by the Odin Project, so big thanks to them.
